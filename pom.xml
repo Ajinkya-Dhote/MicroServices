@@ -8,5 +8,6 @@
   <description>An simple assingment for Techolution</description>
   <modules>
   	<module>EurekaServer</module>
+  	<module>EurekaClient</module>
   </modules>
 </project>
